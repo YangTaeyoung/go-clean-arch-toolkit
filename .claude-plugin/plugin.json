@@ -1,0 +1,12 @@
+{
+  "name": "go-clean-arch-toolkit",
+  "description": "Go/Echo/GORM 클린 아키텍처 개발 워크플로우 툴킷. 이슈 구체화(/specify), 구현(/develop), 리뷰 반영(/fix-review), 코드 감사, 레이어별 검증을 포함합니다.",
+  "version": "1.0.0",
+  "author": {
+    "name": "YangTaeyoung",
+    "email": ""
+  },
+  "homepage": "https://github.com/YangTaeyoung/go-clean-arch-toolkit",
+  "repository": "https://github.com/YangTaeyoung/go-clean-arch-toolkit",
+  "license": "MIT"
+}
